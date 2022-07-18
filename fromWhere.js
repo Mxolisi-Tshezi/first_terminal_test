@@ -6,7 +6,7 @@ module.exports=function fromWhere(regNo){
       
       return "Paarl";}
       else if(regNo.startsWith("CY")){
-      return "Bellvill";}
+      return "Bellville";}
       else{
       
       return "Some other place!"}
